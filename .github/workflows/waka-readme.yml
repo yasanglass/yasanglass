@@ -10,7 +10,7 @@ on:
   
 jobs:
   update-readme:
-    name: Update this repo's README with latest WakaTime data
+    name: Update this repo's README.md with latest WakaTime data
     runs-on: [ ubuntu-latest ]
     steps:
       - uses: athul/waka-readme@master
