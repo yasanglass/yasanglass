@@ -20,4 +20,4 @@ jobs:
           SHOW_TIME: false
           SHOW_TITLE: true
           TIME_RANGE: last_30_days
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          BLOCKS: ░▒▓█
