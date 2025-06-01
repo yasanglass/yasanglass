@@ -13,7 +13,7 @@ jobs:
     name: Update this repo's README.md with latest WakaTime data
     runs-on: [ ubuntu-latest ]
     steps:
-      - uses: yasanglass/waka-readme@allow-showing-editors
+      - uses: yasanglass/waka-readme-plus@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: Update README Using WakaTime Data
