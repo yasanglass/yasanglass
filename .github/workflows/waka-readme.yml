@@ -13,7 +13,7 @@ jobs:
     name: Update this repo's README.md with latest WakaTime data
     runs-on: [ ubuntu-latest ]
     steps:
-      - uses: athul/waka-readme@master
+      - uses: yasanglass/waka-readme@allow-showing-editors
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: Update README Using WakaTime Data
@@ -21,3 +21,6 @@ jobs:
           SHOW_TITLE: true
           TIME_RANGE: last_30_days
           BLOCKS: ░▒▓█
+          IGNORED_LANGUAGES: '"Image (svg)" XML Other'
+          SHOW_EDITORS: true
+          IGNORED_EDITORS: Slack Zoom Figma
