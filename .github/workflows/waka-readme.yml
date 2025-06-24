@@ -24,4 +24,3 @@ jobs:
           IGNORED_LANGUAGES: '"Image (svg)" XML Other'
           SHOW_EDITORS: true
           IGNORED_EDITORS: Slack Zoom Figma
-          INPUT_SHOW_CHANGES: true
