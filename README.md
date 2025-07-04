@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/4e46b857-e471-4180-b789-44e714acaeb2.svg)](https://wakatime.com/@4e46b857-e471-4180-b789-44e714acaeb2)
+
 <!--START_SECTION:waka-->
 ### Languages
 ```txt
