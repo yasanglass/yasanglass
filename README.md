@@ -11,11 +11,11 @@ Java                                     ▒░░░░░░░░░░░░
 ### Editors
 ```txt
 IntelliJ IDEA                            ██████████████████████▒░░   90 %
-Cursor                                   █▓░░░░░░░░░░░░░░░░░░░░░░░   08 %
+Cursor                                   █▓░░░░░░░░░░░░░░░░░░░░░░░   07 %
 Android Studio                           ▒░░░░░░░░░░░░░░░░░░░░░░░░   02 %
 Xcode                                    ▒░░░░░░░░░░░░░░░░░░░░░░░░   02 %
 VS Code                                  ░░░░░░░░░░░░░░░░░░░░░░░░░   01 %
 ```
 
-From: 22 November 2025 - To: 29 November 2025
+From: 23 November 2025 - To: 30 November 2025
 <!--END_SECTION:waka-->
