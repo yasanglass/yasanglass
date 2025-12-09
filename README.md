@@ -11,11 +11,11 @@ Swift                                    ▒░░░░░░░░░░░░
 ### Editors
 ```txt
 IntelliJ IDEA                            █████████████████████▓░░░   87 %
-Cursor                                   ██▓░░░░░░░░░░░░░░░░░░░░░░   12 %
+Cursor                                   ██▓░░░░░░░░░░░░░░░░░░░░░░   11 %
 Xcode                                    ▒░░░░░░░░░░░░░░░░░░░░░░░░   02 %
-VS Code                                  ░░░░░░░░░░░░░░░░░░░░░░░░░   01 %
+VS Code                                  ▒░░░░░░░░░░░░░░░░░░░░░░░░   02 %
 Android Studio                           ░░░░░░░░░░░░░░░░░░░░░░░░░   01 %
 ```
 
-From: 29 November 2025 - To: 06 December 2025
+From: 30 November 2025 - To: 07 December 2025
 <!--END_SECTION:waka-->
