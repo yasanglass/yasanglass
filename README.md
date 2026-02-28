@@ -1,19 +1,19 @@
 <!--START_SECTION:waka-->
 ### Languages
 ```txt
-Kotlin                           █████████████████████▒░░░   86 %
-Markdown                         ██░░░░░░░░░░░░░░░░░░░░░░░   09 %
-Swift                            ▓░░░░░░░░░░░░░░░░░░░░░░░░   04 %
+Kotlin                           ████████████████████░░░░░   80 %
+Markdown                         ███░░░░░░░░░░░░░░░░░░░░░░   13 %
+Swift                            █░░░░░░░░░░░░░░░░░░░░░░░░   04 %
 TOML                             ▒░░░░░░░░░░░░░░░░░░░░░░░░   01 %
 ```
 
 ### Editors
 ```txt
-IntelliJ IDEA                    █████████████████████▓░░░   88 %
+IntelliJ IDEA                    █████████████████████▓░░░   87 %
 Android Studio                   ██▓░░░░░░░░░░░░░░░░░░░░░░   11 %
 Xcode                            ▓░░░░░░░░░░░░░░░░░░░░░░░░   03 %
 Cursor                           ░░░░░░░░░░░░░░░░░░░░░░░░░   01 %
 ```
 
-From: 18 February 2026 - To: 25 February 2026
+From: 19 February 2026 - To: 26 February 2026
 <!--END_SECTION:waka-->
